@@ -1,6 +1,10 @@
 # breakfast repo
 > a collection of videos, recordings, and podcasts to accompany our morning coffee
 
+### have a suggestion?
+
+if you have something you think i would like to or should listen/watch, please file and issue with the link and a small description. thanks!
+
 ### October 2015
 
 - [Beats, Rye, & Tapes: Episode 1: Beginner Experiences](http://beatsryetypes.com/episodes/2015/02/01/episode-1-first-experiences.html)
