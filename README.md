@@ -5,7 +5,7 @@ there are so many cool things to learn and watch and i never seem to have the ti
 
 ### have a suggestion?
 
-if you have something you think i would like to or should listen/watch, please file and issue with the link and a small description. thanks!
+if you have something you think i would like to or should listen/watch, please [file an issue](https://github.com/ashleygwilliams/breakfast-repo/issues/new) with the link and a small description. thanks!
 
 ### October 2015
 
