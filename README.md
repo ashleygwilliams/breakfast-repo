@@ -9,6 +9,7 @@ if you have something you think i would like to or should listen/watch, please [
 
 ### October 2015
 
+- [David Nolen: Immutability: Putting The Dream Machine To Work (JSConf2014)](https://www.youtube.com/watch?v=SiFwRtCnxv4)
 - [Abby Bobe: From Protesting to Programming: Becoming a Tech Activist (Strangeloop 2015)](https://www.youtube.com/watch?v=gy82S8tjJX8)
 - [Matt Bajor: Look ma, no OS! Unikernals and their applications (Strangeloop 2015)](https://www.youtube.com/watch?v=W9F4pn9Lngc)
 - [Beats, Rye, & Tapes: Episode 1: Beginner Experiences](http://beatsryetypes.com/episodes/2015/02/01/episode-1-first-experiences.html)
