@@ -9,6 +9,7 @@ if you have something you think i would like to or should listen/watch, please [
 
 ### October 2015
 
+- [New Rustacean, Episode 002: Something borrowed, something... moved?](http://www.newrustacean.com/show_notes/e002/)
 - [David Nolen: Immutability: Putting The Dream Machine To Work (JSConf2014)](https://www.youtube.com/watch?v=SiFwRtCnxv4)
 - [Abby Bobe: From Protesting to Programming: Becoming a Tech Activist (Strangeloop 2015)](https://www.youtube.com/watch?v=gy82S8tjJX8)
 - [Matt Bajor: Look ma, no OS! Unikernals and their applications (Strangeloop 2015)](https://www.youtube.com/watch?v=W9F4pn9Lngc)
