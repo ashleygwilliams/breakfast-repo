@@ -9,6 +9,7 @@ if you have something you think i would like to or should listen/watch, please [
 
 ### October 2015
 
+- [Joe McCann: Tuning Node (DotJS 2014)](http://www.thedotpost.com/2014/11/joe-mccann-tuning-node)
 - [Camille Fournier: "Hopelessness and Confidence in Distributed Systems Design" (Strangeloop 2015)](https://www.youtube.com/watch?v=TlU1opuCXB0)
 - [New Rustacean, Episode 002: Something borrowed, something... moved?](http://www.newrustacean.com/show_notes/e002/)
 - [David Nolen: Immutability: Putting The Dream Machine To Work (JSConf2014)](https://www.youtube.com/watch?v=SiFwRtCnxv4)
