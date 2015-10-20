@@ -9,6 +9,7 @@ if you have something you think i would like to or should listen/watch, please [
 
 ### October 2015
 
+- [Kevin Slavin: How Algorithms Shape Our World (TED 2011)](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
 - [Peter Alvaro: I See What You Mean (Strangeloop 2015)](https://www.youtube.com/watch?v=R2Aa4PivG0g)
 - [Tom Stuart: Hello, Declarative World (Joy of Coding 2015)](http://www.infoq.com/presentations/declarative-programming)
 - [Gary Bernhardt: Capability vs. Suitability (Mountain West Ruby 2012)](https://www.youtube.com/watch?v=NftT6HWFgq0)
