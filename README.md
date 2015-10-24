@@ -9,6 +9,7 @@ if you have something you think i would like to or should listen/watch, please [
 
 ### October 2015
 
+- [Chris Granger: Eve (Strangeloop 2015)](https://www.youtube.com/watch?v=5V1ynVyud4M)
 - [New Rustacean, Episode 003: No More Nulls](http://www.newrustacean.com/show_notes/e003/)
 - [Kate Hudson: Advanced Frontend Automation (NordicJS 2015)](https://www.youtube.com/watch?v=0RYETb9YVrk)
 - [Kevin Slavin: How Algorithms Shape Our World (TED 2011)](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
