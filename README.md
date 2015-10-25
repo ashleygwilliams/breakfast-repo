@@ -9,6 +9,7 @@ if you have something you think i would like to or should listen/watch, please [
 
 ### October 2015
 
+- [Larry Wall: Let's Get Ready to Party (YAPC::Europe 2015)](https://www.youtube.com/watch?v=RvCkvXvqi3U&feature=youtu.be)
 - [Chris Granger: Eve (Strangeloop 2015)](https://www.youtube.com/watch?v=5V1ynVyud4M)
 - [New Rustacean, Episode 003: No More Nulls](http://www.newrustacean.com/show_notes/e003/)
 - [Kate Hudson: Advanced Frontend Automation (NordicJS 2015)](https://www.youtube.com/watch?v=0RYETb9YVrk)
