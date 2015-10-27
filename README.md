@@ -9,6 +9,7 @@ if you have something you think i would like to or should listen/watch, please [
 
 ### October 2015
 
+- [Jessica Kerr - Functional Principles In React and Elm (React Rally 2015)](https://www.youtube.com/watch?v=1uRC3hmKQnM)
 - [Jacob Kaplan-Moss: What part of "for Life" don't you understand? (Open Source & Feelings 2015)](https://www.youtube.com/watch?v=EqcuzSwySR4)
 - [Larry Wall: Let's Get Ready to Party (YAPC::Europe 2015)](https://www.youtube.com/watch?v=RvCkvXvqi3U&feature=youtu.be)
 - [Chris Granger: Eve (Strangeloop 2015)](https://www.youtube.com/watch?v=5V1ynVyud4M)
