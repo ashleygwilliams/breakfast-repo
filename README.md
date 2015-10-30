@@ -9,6 +9,7 @@ if you have something you think i would like to or should listen/watch, please [
 
 ### October 2015
 
+- [Mindy Preston: Non-Imperative Network Programming (Strangeloop 2015)](https://www.youtube.com/watch?v=GNc1t6Q5Dls)
 - [Rust in Theory: The Stack and Stack Frames](https://www.youtube.com/watch?v=QADnKMXnDFY)
 - [Jessica Kerr - Functional Principles In React and Elm (React Rally 2015)](https://www.youtube.com/watch?v=1uRC3hmKQnM)
 - [Jacob Kaplan-Moss: What part of "for Life" don't you understand? (Open Source & Feelings 2015)](https://www.youtube.com/watch?v=EqcuzSwySR4)
