@@ -9,6 +9,7 @@ if you have something you think i would like to or should listen/watch, please [
 
 ### October 2015
 
+- [Rich Hickey: Simple, Made Easy (Strangeloop 2011)](http://www.infoq.com/presentations/Simple-Made-Easy)
 - [Guy Steele: Growing a Language (1998 ACM OOPSLA)](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 - [Mindy Preston: Non-Imperative Network Programming (Strangeloop 2015)](https://www.youtube.com/watch?v=GNc1t6Q5Dls)
 - [Rust in Theory: The Stack and Stack Frames](https://www.youtube.com/watch?v=QADnKMXnDFY)
