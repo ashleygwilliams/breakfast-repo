@@ -11,4 +11,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### november 2015
 
+- [New Rustacean 005: Allocate it where?](http://www.newrustacean.com/show_notes/e005/index.html)
 - [New Rustacean 004: Functions, methods, closures, and function as arguments!](http://www.newrustacean.com/show_notes/e004/index.html)
