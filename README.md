@@ -11,5 +11,6 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### november 2015
 
+- [Jake Diederich: Stop Writing Classes (Pycon 2012)](https://www.youtube.com/watch?v=o9pEzgHorH0)
 - [New Rustacean 005: Allocate it where?](http://www.newrustacean.com/show_notes/e005/index.html)
 - [New Rustacean 004: Functions, methods, closures, and function as arguments!](http://www.newrustacean.com/show_notes/e004/index.html)
