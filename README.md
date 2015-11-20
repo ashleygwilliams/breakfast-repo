@@ -11,6 +11,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### november 2015
 
+- [Rust: bad for your car, good for your code](https://www.youtube.com/watch?v=LSNpQYTA5zc&feature=youtu.be&list=PLxyG_Sh7NFechTfZb2DLQEUvy3FbaR3gD)
 - [Lauren Voswinkel: Let's Continue To Talk About Pay (OS&Feels 2015)](http://confreaks.tv/videos/osfeels2015-let-s-continue-to-talk-about-pay)
 - [Jake Diederich: Stop Writing Classes (Pycon 2012)](https://www.youtube.com/watch?v=o9pEzgHorH0)
 - [New Rustacean 005: Allocate it where?](http://www.newrustacean.com/show_notes/e005/index.html)
