@@ -11,6 +11,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### november 2015
 
+- [Rich Hickey: Deconstructing the Database (JaxConf 2012)](https://www.youtube.com/watch?v=Cym4TZwTCNU)
 - [New Rustacean Bonus 001: Polyglot Programming Promises and Perils](http://www.newrustacean.com/show_notes/bonus/_1/)
 - [Prof Brian Kernighan: How to succeed in language design without really trying](https://www.youtube.com/watch?v=Sg4U4r_AgJU)
 - [New Rustacean 006: Designing APIs, and using packages ("crates") and modules](http://www.newrustacean.com/show_notes/e006/)
