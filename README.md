@@ -11,4 +11,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### december 2015
 
+- [Rebecca Turner: Into the npm installer -- How it works and where it's complex (Nodevember 2015)](https://www.youtube.com/watch?v=3ShkpzavVFM)
 - [Prof Brian Kenighan: "C" Programming Language (Computerphile)](https://www.youtube.com/watch?v=de2Hsvxaf8M)
