@@ -11,6 +11,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### december 2015
 
+- [Darius Kazemi: How to Win the Lottery (XOXO Festival 2014)](https://www.youtube.com/watch?v=l_F9jxsfGCw)
 - [Andreas Stefik: Evidence-Oriented Programming (Strangeloop 2015)](https://www.youtube.com/watch?v=uEFrE6cgVNY)
 - [Stefanie Schirmer: Functional programming and curry cooking in JS (JSConf EU 2015)](https://www.youtube.com/watch?v=6Qx5ZAbfqjo)
 - [Yehuda Katz: Building Production Grade Web Apps Fast (EmberCamp London 2015)](https://www.youtube.com/watch?v=gk-xyLM7R4g)
