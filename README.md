@@ -11,6 +11,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### december 2015
 
+- [Richard Cook, "How Complex Systems Fail" (O'Reilly Velocity 2012)](https://www.youtube.com/watch?v=2S0k12uZR14)
 - [Jennifer Daniel : Design Is Capitalism (CreativeMornings Nov2015)](https://www.youtube.com/watch?v=O4s-H9R7uvY)
 - [Darius Kazemi: How to Win the Lottery (XOXO Festival 2014)](https://www.youtube.com/watch?v=l_F9jxsfGCw)
 - [Andreas Stefik: Evidence-Oriented Programming (Strangeloop 2015)](https://www.youtube.com/watch?v=uEFrE6cgVNY)
