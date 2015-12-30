@@ -11,6 +11,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### december 2015
 
+- [Martin Fowler: Not Just Code Monkeys (GOTO Berlin 2014)](https://www.youtube.com/watch?v=4E3xfR6IBII)
 - [New Rustacean 008: Just Like Something Else](http://www.newrustacean.com/show_notes/e008/index.html)
 - [New Rustacean 007: Testify](http://www.newrustacean.com/show_notes/e007/index.html)
 - [Richard Cook, "How Complex Systems Fail" (O'Reilly Velocity 2012)](https://www.youtube.com/watch?v=2S0k12uZR14)
