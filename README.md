@@ -9,17 +9,6 @@ if you have something you think i would like to or should listen/watch, please [
 
 looking for a previous months picks? [check out the archives!](https://github.com/ashleygwilliams/breakfast-repo/tree/master/archives) 
 
-### december 2015
+### january 2016
 
-- [Julia Evans: You can be a kernel hacker! (Strangeloop 2014)](https://www.youtube.com/watch?v=0IQlpFWTFbM)
-- [Martin Fowler: Not Just Code Monkeys (GOTO Berlin 2014)](https://www.youtube.com/watch?v=4E3xfR6IBII)
-- [New Rustacean 008: Just Like Something Else](http://www.newrustacean.com/show_notes/e008/index.html)
-- [New Rustacean 007: Testify](http://www.newrustacean.com/show_notes/e007/index.html)
-- [Richard Cook, "How Complex Systems Fail" (O'Reilly Velocity 2012)](https://www.youtube.com/watch?v=2S0k12uZR14)
-- [Jennifer Daniel : Design Is Capitalism (CreativeMornings Nov2015)](https://www.youtube.com/watch?v=O4s-H9R7uvY)
-- [Darius Kazemi: How to Win the Lottery (XOXO Festival 2014)](https://www.youtube.com/watch?v=l_F9jxsfGCw)
-- [Andreas Stefik: Evidence-Oriented Programming (Strangeloop 2015)](https://www.youtube.com/watch?v=uEFrE6cgVNY)
-- [Stefanie Schirmer: Functional programming and curry cooking in JS (JSConf EU 2015)](https://www.youtube.com/watch?v=6Qx5ZAbfqjo)
-- [Yehuda Katz: Building Production Grade Web Apps Fast (EmberCamp London 2015)](https://www.youtube.com/watch?v=gk-xyLM7R4g)
-- [Rebecca Turner: Into the npm installer -- How it works and where it's complex (Nodevember 2015)](https://www.youtube.com/watch?v=3ShkpzavVFM)
-- [Prof Brian Kenighan: "C" Programming Language (Computerphile)](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+- [Yehuda Katz: JSON API (Changelog #189)](https://changelog.com/189/)
