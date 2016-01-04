@@ -11,5 +11,6 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### january 2016
 
+- [Dan Webb: Why You Should Be Checking Out Rust (The Lead Developer 2015)](https://vimeo.com/139631510)
 - [Kelsey Gilmore-Innis: Enjoy Yourself Because You Can't Change Anything Anyway: Immutable Data in the Real World (Codemania 2015)](https://www.youtube.com/watch?v=bi8c55JNyGA)
 - [Yehuda Katz: JSON API (Changelog #189)](https://changelog.com/189/)
