@@ -11,6 +11,8 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### january 2016
 
+- [Stephan Bönnemann: We fail to follow SemVer – and why it needn’t matter (JSConf Budapest 2015)](
+https://www.youtube.com/watch?v=tc2UgG5L7WM)
 - [The Winning Agenda: Interview with Damon Stone on the MWL](http://thewinningagenda.com/2016/01/04/episode-64-exclusive-interview-with-damon-stone-on-the-most-wanted-list/)
 - [Uli Kuster: Why Hypercard Was So F*****g Great (NSConf 6 2014)](https://vimeo.com/95380430)
 - [Dan Webb: Why You Should Be Checking Out Rust (The Lead Developer 2015)](https://vimeo.com/139631510)
