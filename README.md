@@ -11,6 +11,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### january 2016
 
+- [Brian Lonsdorf: Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
 - [Stephan Bönnemann: We fail to follow SemVer – and why it needn’t matter (JSConf Budapest 2015)](
 https://www.youtube.com/watch?v=tc2UgG5L7WM)
 - [The Winning Agenda: Interview with Damon Stone on the MWL](http://thewinningagenda.com/2016/01/04/episode-64-exclusive-interview-with-damon-stone-on-the-most-wanted-list/)
