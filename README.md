@@ -11,6 +11,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### january 2016
 
+- [Robert Smallshire: The Unreasonable Effectiveness of Dynamic Typing for Practical Programs (JavaZone 2014)](https://vimeo.com/74354480)
 - [New Rustacean 009: Getting into the nitty-gritty with Rust's traits](http://www.newrustacean.com/show_notes/e009/index.html)
 - [Andi McClure: Introducing Emily Simplifying Functional Programming (lambdaConf 2015)](https://www.youtube.com/watch?v=gMZsc3cvwKs)
 - [Brian Lonsdorf: Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
