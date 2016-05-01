@@ -13,3 +13,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 - [Alex Burkhart: In Rust We Trust (LambdaConf 2015)](https://www.youtube.com/watch?v=-dxqbhLIgdM)
 - [Mary Rose Cook: Code Lauren: demo, how, why](https://www.youtube.com/watch?v=dOGuPJ6aFzE)
+- [Aaron Patterson: Description coming soon. (CUSEC 2015)](http://www.youtube.com/watch?v=hgIk672KkL8)
