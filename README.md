@@ -9,3 +9,6 @@ if you have something you think i would like to or should listen/watch, please [
 
 looking for a previous months picks? [check out the archives!](https://github.com/ashleygwilliams/breakfast-repo/tree/master/archives) 
 
+### may 2016
+
+- [Alex Burkhart: In Rust We Trust (LambdaConf 2015)](https://www.youtube.com/watch?v=-dxqbhLIgdM)
