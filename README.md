@@ -11,3 +11,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 ### june 2016
 
+- [Jeanine Adkisson: Tulip: A Well-Balanced Language (MoonConf 2016)](https://www.youtube.com/watch?v=WWlnRWbOlho&feature=youtu.be&a)
