@@ -12,3 +12,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 ### june 2016
 
 - [Jeanine Adkisson: Tulip: A Well-Balanced Language (MoonConf 2016)](https://www.youtube.com/watch?v=WWlnRWbOlho&feature=youtu.be&a)
+- [Isaac Schlueter: Non-Violent Communication for Fun, Profit, and Self Defense (Open Source & Feelings 2015)](https://www.youtube.com/watch?v=G5_8u3NA8M8)
